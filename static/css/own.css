@@ -4,7 +4,7 @@
     align-items:center;
     display:grid;
     position: relative;
-    background: url("../assets/varybackground.mp4") no-repeat center center;
+    background: url("../assets/varybackground1.gif") no-repeat center center;
     background-size: cover;
 }
 
@@ -15,7 +15,7 @@
     align-items:center;
     display:grid;
     position: relative;
-    background: url("../assets/intro.mp4") no-repeat center center;
+    background: url("../assets/intro4.gif") no-repeat center center;
     background-size: cover;
 }
 
